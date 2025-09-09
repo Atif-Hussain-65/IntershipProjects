@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "61072149828",
+    "project_id": "intershipprojects",
+    "storage_bucket": "intershipprojects.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61072149828:android:0ca6b5a4e4125c8eb11b11",
+        "android_client_info": {
+          "package_name": "com.dailybuzz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPuyIrZ1cXCLSTcRZEQ_5FVOStCaJG7A"
+        },
+        {
+          "current_key": "AIzaSyCWxTCY84O8wBA1FbnDgKMwkgxE0TPvXfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61072149828:android:66e9d525ea7e25bdb11b11",
+        "android_client_info": {
+          "package_name": "com.neighbortrade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmPuyIrZ1cXCLSTcRZEQ_5FVOStCaJG7A"
+        },
+        {
+          "current_key": "AIzaSyCWxTCY84O8wBA1FbnDgKMwkgxE0TPvXfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
